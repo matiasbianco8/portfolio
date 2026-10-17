@@ -265,7 +265,7 @@
 				usePopupDefaultStyling: false,
 				usePopupForceClose: true,
 				usePopupLoader: true,
-				usePopupNav: true,
+				usePopupNav: false,
 				windowMargin: 50
 			});
 
